@@ -1,0 +1,15 @@
+C:\Users\vishw\Desktop\DollarCompterShop\bin\Debug\DollarCompterShop.exe.config
+C:\Users\vishw\Desktop\DollarCompterShop\bin\Debug\DollarCompterShop.exe
+C:\Users\vishw\Desktop\DollarCompterShop\bin\Debug\DollarCompterShop.pdb
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.csprojAssemblyReference.cache
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.SplashForm.resources
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.Properties.Resources.resources
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.csproj.GenerateResource.cache
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.csproj.CoreCompileInputs.cache
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.exe
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.pdb
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.StartForm.resources
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.CheckoutScreen.resources
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.DisplayProductForm.resources
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.NewOrderForm.resources
+C:\Users\vishw\Desktop\DollarCompterShop\obj\Debug\DollarCompterShop.AboutBox.resources
